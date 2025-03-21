@@ -10,7 +10,7 @@
     "SESSION_ID": {
       "description": "Put the session-id here.",
       "required": true,
-      "value": ""
+      "value": "MALVIN-XD~V9JWBD7b#_TksTFhMecC-oBrhDITNoDlyiADzxFDQSkk6qoEB-ho"
     },  
     
     "MENU_IMG": {
@@ -109,14 +109,14 @@
     "OWNER_NUMBER": {
       "description": "put the owner number for bot.",
       "required": false,
-      "value": "263714757857"
+      "value": "254711246642"
 
     }, 
 
     "BOT_NAME": {
       "description": "Type here the bot name.",
       "required": false,
-      "value": "✦ᴍᴀʟᴠɪɴ xᴅ v2✦"
+      "value": "✦CHRIS xᴅ v2✦"
 
       }, 
 
